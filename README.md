@@ -2,6 +2,6 @@
 
 Eine Headline mit einem Button stylen bzw. das Styling zurücksetzen. 
 
-HTML/JS
+HTML/CSS/JS
 
 https://kadi1996.github.io/lev2-1-classlist/
